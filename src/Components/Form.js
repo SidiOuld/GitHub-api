@@ -67,7 +67,7 @@ function Form() {
         <UserCard data={data} />
       ) : (
         <p className="search__msg">
-          To search for a user, please type a valid username...
+          To search for a user, please enter a valid username...
         </p>
       )}
     </Container>
