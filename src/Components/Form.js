@@ -54,7 +54,7 @@ function Form() {
     <Container>
       <form onSubmit={handleSubmit} className="form">
         <Input
-          placeholder="Search..."
+          placeholder="Username..."
           onChange={handleChange}
           className="form__input"
         />
